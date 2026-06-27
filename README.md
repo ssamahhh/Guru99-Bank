@@ -41,4 +41,4 @@ This project includes the following manual testing deliverables:
 ## Author
 
 **Samah Sameh**
-QA Engineer | Manual Tester
+QA/QC Engineer 
