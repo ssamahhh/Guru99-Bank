@@ -7,7 +7,7 @@ This repository contains the manual testing artifacts for the **Guru99 Bank** we
 
 ## Project Documents:
 Including Banking SIQs, Test Plan, Test Cases, Test Cases Execution, Bug Report, Summary Report:
-🔗 [View Project Documentation](https://word.cloud.microsoft/open/onedrive/?docId=5F8962DCCBA2D0AC%21s6dea513f782a4b79bca88c5b3246ac20&driveId=5F8962DCCBA2D0AC)
+🔗[ [View Project Documentation](https://docs.google.com/spreadsheets/d/1HX0DTOf1gQu301upyuRLYT0tXQoNpPDPDJxkNGBLYhQ/edit?usp=sharing)
 
 
 ## Testing Activities
