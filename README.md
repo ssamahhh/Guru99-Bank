@@ -5,7 +5,7 @@
 This repository contains the manual testing artifacts for the **Guru99 Bank** web application. The project demonstrates the application of the **Software Testing Life Cycle (STLC)**, including requirements analysis, test design, test execution, and defect reporting.
 
 
-## Project Documents:
+## 🔗[View Project Documentation](https://docs.google.com/spreadsheets/d/1HX0DTOf1gQu301upyuRLYT0tXQoNpPDPDJxkNGBLYhQ/edit?usp=sharing) :
 This project includes the following manual testing deliverables:
 * Banking SRS
 * Test Plan
@@ -13,7 +13,6 @@ This project includes the following manual testing deliverables:
 * Test Execution Report
 * Bug Report
 * Test Summary Report
-## 🔗[ [View Project Documentation](https://docs.google.com/spreadsheets/d/1HX0DTOf1gQu301upyuRLYT0tXQoNpPDPDJxkNGBLYhQ/edit?usp=sharing)
 
 
 ## Testing Activities
