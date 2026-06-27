@@ -1,0 +1,39 @@
+# Guru99 Bank - Manual Testing
+
+## Project Overview
+
+This repository contains the manual testing artifacts for the **Guru99 Bank** web application. The project demonstrates the application of the **Software Testing Life Cycle (STLC)**, including requirements analysis, test design, test execution, and defect reporting.
+
+
+## Project Documents:
+Including Banking SIQs, Test Plan, Test Cases, Test Cases Execution, Bug Report, Summary Report:
+🔗 [View Project Documentation](https://word.cloud.microsoft/open/onedrive/?docId=5F8962DCCBA2D0AC%21s6dea513f782a4b79bca88c5b3246ac20&driveId=5F8962DCCBA2D0AC)
+
+
+## Testing Activities
+
+* Reviewed the Software Requirements Specification (SRS) and UI mockups across four website versions.
+* Designed and executed positive and negative test cases for the selected features.
+* Reported and tracked defects identified during test execution.
+* Verified implemented features against business and functional requirements.
+* Collaborated with the team to ensure feature quality and functionality.
+
+## Deliverables
+
+* Test Plan
+* Test Scenarios
+* Test Cases
+* Bug Reports
+* Test Summary Report
+
+## Testing Types
+
+* Functional Testing
+* Positive Testing
+* Negative Testing
+* Regression Testing
+
+## Author
+
+**Samah Sameh**
+QA Engineer | Manual Tester
